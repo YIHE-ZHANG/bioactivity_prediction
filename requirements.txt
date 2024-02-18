@@ -5,6 +5,5 @@ protobuf==3.20.*
 altair==4.0
 scikit-learn
 gdown
-subprocess
 os
 pickle
